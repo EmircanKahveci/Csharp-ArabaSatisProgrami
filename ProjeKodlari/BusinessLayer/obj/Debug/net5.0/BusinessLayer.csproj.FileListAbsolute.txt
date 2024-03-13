@@ -1,0 +1,152 @@
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\source\repos\ReCapProject\BusinessLayer\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Core.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Core.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Core.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Entities.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Entities.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Core.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\Core.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\Entities.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\Entities.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\Core.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\Core.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\Entities.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\Entities.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\bin\Debug\net5.0\Core.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

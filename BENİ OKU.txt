@@ -1,0 +1,11 @@
+Programı kullanabilmeniz için adımlar
+_________________________________
+
+!! GerekliDosyalar'ın içerisinde dosyalar mevcuttur.
+_________________________________
+
+1- Image dosyasını C:/ dizini içerisine kopyalayınız.
+
+2- Microsoft SQL Server Management Studio Connect to Server Kısmından Server Name "." yapınız.
+
+3- ReCapDataBasesBackup.bak dosyasını Microsoft SQL Server Management Studio ile restore ediniz.

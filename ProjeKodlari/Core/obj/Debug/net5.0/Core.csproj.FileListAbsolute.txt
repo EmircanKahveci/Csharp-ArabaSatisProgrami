@@ -1,0 +1,84 @@
+C:\Users\Huseyin\source\repos\ReCapProject\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\Huseyin\source\repos\ReCapProject\Core\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\source\repos\ReCapProject\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\Users\Huseyin\source\repos\ReCapProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\source\repos\ReCapProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\Huseyin\source\repos\ReCapProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\Huseyin\source\repos\ReCapProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\source\repos\ReCapProject\Core\obj\Debug\net5.0\Core.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\obj\Debug\net5.0\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\bin\Debug\net5.0\Core.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\bin\Debug\net5.0\Core.deps.json
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\bin\Debug\net5.0\Core.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\bin\Debug\net5.0\Core.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\bin\Debug\net5.0\Core.dll
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\Core.dll
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\refint\Core.dll
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Core\obj\Debug\net5.0\ref\Core.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\bin\Debug\net5.0\Core.deps.json
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\bin\Debug\net5.0\Core.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\bin\Debug\net5.0\Core.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\Core.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\refint\Core.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\Core.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Core\obj\Debug\net5.0\ref\Core.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\bin\Debug\net5.0\Core.deps.json
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\bin\Debug\net5.0\Core.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\bin\Debug\net5.0\Core.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\Core.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\refint\Core.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\Core.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Core\obj\Debug\net5.0\ref\Core.dll

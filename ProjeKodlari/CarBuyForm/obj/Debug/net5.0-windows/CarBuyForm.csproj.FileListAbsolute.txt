@@ -1,0 +1,427 @@
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Properties.Resources.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.GenerateResource.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.exe
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll.config
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.deps.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.dev.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\bin\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.genruntimeconfig.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AddCar.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AdminDisplay.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.BuyingCar.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerDisplay.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerTransactions.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Login.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.VehicleOperations.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.exe
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll.config
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.deps.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.dev.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AddCar.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AdminDisplay.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.BuyingCar.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerDisplay.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerTransactions.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Login.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Properties.Resources.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.VehicleOperations.resources
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.GenerateResource.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CopyComplete
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.genruntimeconfig.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Core.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Entities.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.exe
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll.config
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.deps.json
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.json
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Core.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Entities.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Core.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Entities.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AddCar.resources
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AdminDisplay.resources
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.BuyingCar.resources
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerDisplay.resources
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerTransactions.resources
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Login.resources
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.VehicleOperations.resources
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.genruntimeconfig.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.exe
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll.config
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.deps.json
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.json
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.dev.json
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Core.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Entities.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Core.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Entities.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csprojAssemblyReference.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.ResolveComReference.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AdminDisplay.resources
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.BuyingCar.resources
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerDisplay.resources
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerTransactions.resources
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Login.resources
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Properties.Resources.resources
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.VehicleOperations.resources
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.GenerateResource.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfoInputs.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfo.cs
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CoreCompileInputs.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CopyComplete
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.genruntimeconfig.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.exe
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll.config
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.deps.json
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.json
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.dev.json
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Core.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Entities.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Core.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\bin\Debug\net5.0-windows\Entities.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.ResolveComReference.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AdminDisplay.resources
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.BuyingCar.resources
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerDisplay.resources
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerTransactions.resources
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Login.resources
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Properties.Resources.resources
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.VehicleOperations.resources
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.GenerateResource.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CopyComplete
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\ref\CarBuyForm.dll
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.pdb
+C:\Users\Huseyin\Desktop\STAJ_PROJELERİM\STAJ1\HüseyinCamcı_170106206013_StajProje1\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.genruntimeconfig.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.exe
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll.config
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.deps.json
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.json
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.runtimeconfig.dev.json
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\CarBuyForm.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Core.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Entities.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\BusinessLayer.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Core.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\DataAccessLayer.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\bin\Debug\net5.0-windows\Entities.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.AssemblyReference.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.ResolveComReference.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AdminDisplay.resources
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.BuyingCar.resources
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerDisplay.resources
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerTransactions.resources
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Login.resources
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Properties.Resources.resources
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.VehicleOperations.resources
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.GenerateResource.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfoInputs.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfo.cs
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CoreCompileInputs.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CopyComplete
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\refint\CarBuyForm.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.genruntimeconfig.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\ref\CarBuyForm.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.AssemblyReference.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.ResolveComReference.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AdminDisplay.resources
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.BuyingCar.resources
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerDisplay.resources
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.CustomerTransactions.resources
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Login.resources
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.Properties.Resources.resources
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.VehicleOperations.resources
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.GenerateResource.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfoInputs.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.AssemblyInfo.cs
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.csproj.CoreCompileInputs.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\refint\CarBuyForm.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\CarBuyForm\obj\Debug\net5.0-windows\CarBuyForm.pdb

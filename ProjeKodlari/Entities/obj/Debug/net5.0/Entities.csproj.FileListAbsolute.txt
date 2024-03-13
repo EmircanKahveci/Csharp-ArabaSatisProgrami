@@ -1,0 +1,120 @@
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\source\repos\ReCapProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013 - Mehmet Güneri_170106206011\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Huseyin\Desktop\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Administrator\Downloads\Compressed\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Core.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\bin\Debug\net5.0\Core.pdb
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Program Files\HüseyinCamcı_170106206013_StajProje1\HüseyinCamcı_170106206013_StajProje1\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\refint\Entities.dll
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\Emircan\Desktop\Staj_I\ProjeKodlari\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\bin\Debug\net5.0\Core.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\bin\Debug\net5.0\Core.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\refint\Entities.dll
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.pdb
+D:\CsharpForm_ArabaSatisProgrami\ProjeKodlari\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\bin\Debug\net5.0\Core.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\bin\Debug\net5.0\Core.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\refint\Entities.dll
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\Entities.pdb
+D:\Projeler\C#\Araba_Satis_Programi_V02\ProjeKodlari\Entities\obj\Debug\net5.0\ref\Entities.dll
